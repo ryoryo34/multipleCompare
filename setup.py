@@ -12,13 +12,10 @@ setuptools.setup(
     long_description = long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/ryoryo34/multipleCompare",
-    project_urls={
-        "Multiple Compare": "https://github.com/ryoryo34/multipleCompare",
-    },
     classifiers=[
-        "Programming Language :: Python ::3",
-        "License :: OSI Approved :: MIT Licence",
-        "Operating System :: OS Independent",
+        'Programming Language :: Python :: 3',
+        'License :: OSI Approved :: MIT License',
+        'Operating System :: OS Independent',
     ],
     package_dir={"":"src"},
     py_modules=["multiCompare"],
