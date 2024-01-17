@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="multiCompare",
-    version="0.0.1",
+    version="0.0.3",
     author="ryouryou34",
     author_email="ryouryou3434@gmail.com",
     description="how to cert multi compare",
